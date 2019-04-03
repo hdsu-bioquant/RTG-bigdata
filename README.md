@@ -11,7 +11,13 @@ You can find the pdf of the lecture slides in this repository. Feel free to get 
 Tutorial
 --------
 
-This is a short tutorial on using the `Bratwurst` R-package implemented using the TensorFlow framework. There is a previous version of `Bratwurst` on GitHub (checkout [here](https://github.com/wurst-theke/bratwurst)). However, this older version uses CUDA (and not TensorFlow), and is way slower than the TensorFlow implementation provided in the Docker container!
+This is a short tutorial on using the `Bratwurst` R-package implemented using the TensorFlow framework.
+
+You can find an html document `02_NMF.html` in this repo with all code and outputs.
+
+If you want to redo the analysis yourself, you need to install the `Bratwurst` tool using the provided docker container.
+
+Beware: There is a previous version of `Bratwurst` on GitHub (checkout [here](https://github.com/wurst-theke/bratwurst)). However, this older version uses CUDA (and not TensorFlow), and is way slower than the TensorFlow implementation provided in the Docker container!
 
 In order to make the installation easier, we provide a `docker` container which contains Bratwurst as well as all the dependencies (for example the TensorFlow framework.)
 
