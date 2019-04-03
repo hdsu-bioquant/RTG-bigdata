@@ -1,7 +1,7 @@
 Combining and understanding multi-omics data
 ================
 Carl Herrmann - <carl.herrmann@uni-heidelberg.de>
-April 2019
+Allahabad RTG Summer School - April 2019
 
 Lecture slides
 --------------
