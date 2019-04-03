@@ -11,6 +11,8 @@ You can find the pdf of the lecture slides in this repository. Feel free to get 
 Tutorial
 --------
 
+*(a big thank to Andres Quintero for the amazing work in implementing Bratwurst in TensorFlow!!)*
+
 This is a short tutorial on using the `Bratwurst` R-package implemented using the TensorFlow framework.
 
 You can find an html document `02_NMF.html` in this repo with all code and outputs.
